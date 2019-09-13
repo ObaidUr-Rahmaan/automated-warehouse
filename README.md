@@ -20,3 +20,8 @@ The robots are also able to localize themselves if they get lost using Monte-Car
 * Robot Motion-Control = Qasim
 * Route Execution = Augustas
 * Localisation = Lican Zhao, Zhenghao Yan, Thomas Chan,Yiran Dai
+
+
+See link below for a demonstration of multiple robots working together to manage virtual parcels in the warehouse:
+
+https://www.youtube.com/watch?v=O-oL2GZGN28
