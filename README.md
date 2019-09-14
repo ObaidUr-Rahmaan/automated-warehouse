@@ -6,16 +6,16 @@ Grade: **1st-class**
 
 ## Jobs/Responsibilities
 
-* Team manager and Secondary Integrator = Augustas
-* Primary integrator = Adam
-* Job Assignment & Job Selection = Jordan
-* W.M & Robot Interface = Obaid
-* Primary Networking = James
-* Secondary Networking = Obaid
-* Route Planning/ Search = Apporva
-* Robot Motion-Control = Qasim
-* Route Execution = Augustas
-* Localisation = Lican Zhao, Zhenghao Yan, Thomas Chan,Yiran Dai
+* Team manager and Secondary Integrator = Augustas Macys
+* Primary integrator = Adam Cox
+* Job Assignment & Job Selection = Jordan Mussi
+* W.M & Robot Interface = Obaid Ur-Rahmaan
+* Primary Networking = James Bray
+* Secondary Networking = Obaid Ur-Rahmaan
+* Route Planning/ Search = Apporva Patil
+* Robot Motion-Control = Qasim Nawaz
+* Route Execution = Augustas Macys
+* Localisation [Not Implemented] = Lican Zhao, Zhenghao Yan, Thomas Chan, Yiran Dai
 
 
 ## Demonstration
