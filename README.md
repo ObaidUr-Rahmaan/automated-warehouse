@@ -15,8 +15,6 @@ Grade: **1st-class**
 * Route Planning/ Search = Apporva Patil
 * Robot Motion-Control = Qasim Nawaz
 * Route Execution = Augustas Macys
-* Localisation [Not Implemented] = Lican Zhao, Zhenghao Yan, Thomas Chan, Yiran Dai
-
 
 ## Demonstration
 Multiple robots working together to manage virtual packages in the warehouse:
