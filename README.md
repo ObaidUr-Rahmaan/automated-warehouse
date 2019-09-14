@@ -6,8 +6,9 @@ Grade: **1st-class**
 
 ## Jobs/Responsibilities
 
-* Team manager and Secondary Integrator = Augustas Macys
+* Team manager = Augustas Macys
 * Primary integrator = Adam Cox
+* Secondary Integrator = Obaid Ur-Rahmaan
 * Job Assignment & Job Selection = Jordan Mussi
 * W.M & Robot Interface = Obaid Ur-Rahmaan
 * Primary Networking = James Bray
