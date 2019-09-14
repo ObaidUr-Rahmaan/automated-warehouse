@@ -1,6 +1,6 @@
 # An Autonomous Warehouse
 
-This is a First-Year Collaboration Project at the University of Birmingham Computer Science course. The combined System uses 3 NXT robots to simulate a warehouse system, where robots go to pick-up locations, pick up items and deliver them to the drop-off point. The system is also synchronized with a GUI on PC side, the communication being established through Bluetooth. The route planning is smart, using the A* algorithm.
+Fully functional system using 3 NXT robots to simulate an autonomous warehouse where robots go to pick-up locations, grab items and deliver them to their drop-off point. The system is also synchronized with a GUI on PC side, the communication being established through Bluetooth. Route-planning is smart, using the A* algorithm.
 
 Grade: **1st-class**
 
