@@ -7,15 +7,13 @@ Grade: **1st-class**
 ## Jobs/Responsibilities
 
 * Team manager = Augustas Macys
-* Primary integrator = Adam Cox
-* Secondary Integrator = Obaid Ur-Rahmaan
 * Job Assignment & Job Selection = Jordan Mussi
 * W.M & Robot Interface = Obaid Ur-Rahmaan
-* Primary Networking = James Bray
-* Secondary Networking = Obaid Ur-Rahmaan
+* Networking = James Bray / Obaid Ur-Rahmaan
 * Route Planning/ Search = Apporva Patil
 * Robot Motion-Control = Qasim Nawaz
 * Route Execution = Augustas Macys
+* System Integration = Adam Cox
 
 ## Demonstration
 Multiple robots working together to manage virtual packages in the warehouse:
