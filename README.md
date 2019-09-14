@@ -1,26 +1,23 @@
-# An Autonomous Warehouse
+# Autonomous Warehouse
 
-This is a First-Year Collaboration Project at the University of Birmingham Computer Science course. The combined System uses 3 NXT robots to simulate a warehouse system, where robots go to pick-up locations, pick up items and deliver them to the drop-off point. The system is also synchronized with a GUI on PC side, the communication being established through Bluetooth. The route planning is smart, using the A* algorithm.
+Fully functional system using 3 NXT robots to simulate an autonomous warehouse where robots go to pick-up locations, grab items and deliver them to their drop-off point. The system is also synchronized with a GUI on PC side, the communication being established through Bluetooth. Route-planning is smart, using the A* algorithm.
 
 Grade: **1st-class**
 
 ## Jobs/Responsibilities
 
-* Team manager and Secondary Integrator = Augustas
-* Primary integrator = Adam
-* Job Assignment & Job Selection = Jordan
-* W.M & Robot Interface = Obaid
-* Primary Networking = James
-* Secondary Networking = Obaid
-* Route Planning/ Search = Apporva
-* Robot Motion-Control = Qasim
-* Route Execution = Augustas
-* Localisation = Lican Zhao, Zhenghao Yan, Thomas Chan,Yiran Dai
-
+* Team manager = Augustas Macys
+* Job Assignment & Job Selection = Jordan Mussi
+* W.M & Robot Interface = Obaid Ur-Rahmaan
+* Networking = James Bray / Obaid Ur-Rahmaan
+* Route Planning/ Search = Apporva Patil
+* Robot Motion-Control = Qasim Nawaz
+* Route Execution = Augustas Macys
+* System Integration = Adam Cox
 
 ## Demonstration
 Multiple robots working together to manage virtual packages in the warehouse:
 
-![](/resources/Repo-Images/robotics.gif)
+![](/robotics.gif)
 
 <br/>
