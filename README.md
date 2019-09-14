@@ -21,6 +21,6 @@ Grade: **1st-class**
 ## Demonstration
 Multiple robots working together to manage virtual packages in the warehouse:
 
-![](/resources/Repo-Images/robotics.gif)
+![](/robotics.gif)
 
 <br/>
