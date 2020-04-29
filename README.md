@@ -1,6 +1,6 @@
 # Autonomous Warehouse
 
-Fully functional system using 3 NXT robots to simulate an autonomous warehouse where robots go to pick-up locations, grab items and deliver them to their drop-off point. The system is also synchronized with a GUI on PC side, the communication being established through Bluetooth. Route-planning is smart, using the A* algorithm.
+Fully functional system using 3 NXT robots to simulate an autonomous warehouse where robots go to pick-up locations, grab items and deliver them to their drop-off point. The system is also synchronized with a GUI on PC side, the communication being established through Bluetooth. Route-planning is state-of-the-art path-finding algorithms.
 
 Grade: **1st-class**
 
