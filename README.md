@@ -4,7 +4,7 @@ Fully functional system using 3 NXT robots to simulate an autonomous warehouse w
 
 Grade: **1st-class**
 
-## Jobs/Responsibilities
+## Contributors
 
 * Team manager = Augustas Macys
 * Job Assignment & Job Selection = Jordan Mussi
